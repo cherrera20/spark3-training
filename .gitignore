@@ -1,0 +1,7 @@
+target/
+boot/
+lib_managed/
+src_managed/
+project/
+metastore_db/
+derby.log
